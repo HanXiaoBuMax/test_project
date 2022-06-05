@@ -6,5 +6,5 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-[core]
+
     excludesfile = C:/Users/23686/Desktop/Git/test_project/.idea/git.ignore
